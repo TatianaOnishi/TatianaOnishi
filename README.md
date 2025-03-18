@@ -76,7 +76,7 @@
      </a>
 </div>        
         
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TatianaMatumoto&theme=dracula)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TatianaOnishi&theme=dracula&locale=pt_BR" alt="GitHub Streak" /></a>
 
 <div>
     <a href="https://github.com/TatianaMatumoto">
