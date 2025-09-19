@@ -75,8 +75,6 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=TatianaOnishi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
      </a>
 </div>        
-        
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TatianaOnishi&theme=dracula&locale=pt_BR" alt="GitHub Streak" /></a>
 
 <div>
     <a href="https://github.com/TatianaOnishi">
