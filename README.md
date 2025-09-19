@@ -2,7 +2,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E6%9D%BE%E6%9C%AC+%E3%82%BF%E3%83%81%E3%82%A2%E3%83%8A+%E3%81%A7%E3%81%99%E3%80%82%F0%9F%8C%B8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5488C&width=435&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E5%A4%A7%E8%A5%BF+%E3%82%BF%E3%83%81%E3%82%A2%E3%83%8A+%E3%81%A7%E3%81%99%E3%80%82)](https://git.io/typing-svg)
 
 <div align="center">
     <img height="300" src="assets/banner.png"/>
@@ -15,7 +15,7 @@
 - 💫 &nbsp; Tenho interesse em RPGs, Visual Novels, Jogos Mobiles, UX Design & UX Writing. 
 - 🍀 &nbsp; Meus hobbys são assistir animes, ler, jogar, escrever e desenhar. 
 - 💛 &nbsp; Posso colaborar em ONGs, me mande uma mensagem sobre seu projeto! 
-- 📖 &nbsp; Atualmente me aprofundando em React Native.
+- 📖 &nbsp; Atualmente me aprofundando em Back-end.
 - 🎀 &nbsp; <a href="https://github.com/TatianaMatumoto/curriculum"> Currículo Multipotencial. </a>
 - 💻 &nbsp; <a href="https://github.com/TatianaMatumoto/curriculum-tech"> Currículo focado em tecnologia. </a>
 
@@ -71,22 +71,22 @@
 ## ✨ &nbsp; Status 
 
 <div>
-    <a href="https://github.com/TatianaMatumoto">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=TatianaMatumoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <a href="https://github.com/TatianaOnishi">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=TatianaOnishi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
      </a>
 </div>        
         
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TatianaOnishi&theme=dracula&locale=pt_BR" alt="GitHub Streak" /></a>
 
 <div>
-    <a href="https://github.com/TatianaMatumoto">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaMatumoto&layout=compact&langs_count=7&theme=dracula"/>
+    <a href="https://github.com/TatianaOnishi">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaOnishi&layout=compact&langs_count=7&theme=dracula"/>
     </a>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TatianaMatumoto&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TatianaOnishi&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=TatianaMatumoto&color=ff69b4) 
+![](https://komarev.com/ghpvc/?username=TatianaOnishi&color=ff69b4) 
 
 <br>
 
