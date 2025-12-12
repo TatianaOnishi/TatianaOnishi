@@ -11,7 +11,7 @@
 <br>
 
 - 🖐🏻 &nbsp; Pronomes: ela/dela (she/her) | | elu/delu (they/them).
-- 🎓 &nbsp; Graduada com Honra Láurea em Tecnologia de Análise e Desenvolvimento de Sistemas em Dracena.
+- 🎓 &nbsp; Graduada com Honra Láurea em Tecnologia de Análise e Desenvolvimento de Sistemas em Unifadra de Dracena.
 - 💫 &nbsp; Tenho interesse em RPGs, Visual Novels, Jogos Mobiles, UX Design & UX Writing. 
 - 🍀 &nbsp; Meus hobbys são assistir animes, ler, jogar, escrever e desenhar. 
 - 💛 &nbsp; Posso colaborar em ONGs, me mande uma mensagem sobre seu projeto! 
@@ -42,6 +42,11 @@
   <img align="center" alt="Tati-BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Tati-GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">   
   <img align="center" alt="Tati-Insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
+  <img align="center" alt="Tati-Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img align="center" alt="Tati-Eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
+  <img align="center" alt="Tati-Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
+  <img align="center" alt="Tati-Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> 
+  <img align="center" alt="Tati-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>    
 
 <br>
@@ -51,18 +56,13 @@
 <div style="display: inline_block">
 <br>
   <img align="center" alt="Tati-Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">  
-  <img align="center" alt="Tati-Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-  <img align="center" alt="Tati-Eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
-  <img align="center" alt="Tati-Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
-  <img align="center" alt="Tati-Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> 
-  <img align="center" alt="Tati-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
 </div>    
 
 ## 👩🏻‍💻 &nbsp; Estou interessada em aprender: 
 
 <div style="display: inline_block">
 <br>
-  <img align="center" alt="Tati-TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Tati-Gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=whiteE"> 
 </div>    
 
