@@ -77,6 +77,7 @@
 
 <br>
 
+<!-- Pausado pois está fora do ar  
 ## ✨ &nbsp; Status
 
 <div>
@@ -96,8 +97,9 @@
 ![](https://komarev.com/ghpvc/?username=TatianaOnishi&color=ff69b4)
 
 <br>
+-->
 
-  <!-- 
+<!-- 
  ## 💫 &nbsp; Sigam-me
 
 <div>
@@ -105,5 +107,3 @@
      <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=16270358&theme=dracula"/> 
 </div>
 -->
-
-<br>
